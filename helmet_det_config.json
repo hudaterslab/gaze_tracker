@@ -1,0 +1,12 @@
+{
+    "model": {
+        "param": {
+            "score_threshold": 0.25,
+            "iou_threshold": 0.5,
+            "input_size": 640
+        }
+    },
+    "output": {
+        "classes": ["helmet", "head","person"]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "model": {
+        "param": {
+            "score_threshold": 0.5,
+            "iou_threshold": 0.5,
+            "input_width": 640,
+            "kpt_count": 17
+        }
+    },
+    "output": {
+        "classes": ["person"]
+    }
+}
